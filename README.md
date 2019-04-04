@@ -25,10 +25,6 @@ You can also watch a demo video of this project [on my YouTube](https://youtu.be
 
 **Estimation markers** by Kalman Filters are **Green** triangles.
 
-
-## Get the Code
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/kalman-filter/p7-unscented-kalman-filter.zip)
-
 ## Project Setup
 
 This project involves the Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
